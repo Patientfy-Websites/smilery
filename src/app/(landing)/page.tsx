@@ -3,7 +3,7 @@ import HeroReveal from "@/components/hero-reveal";
 import Logo from "@/components/logo";
 
 export const metadata = {
-  title: "Smilery · Opening Summer 2026",
+  title: "Smilery · Opening Winter 2026",
   description: "Orthodontics, reimagined · Miami Shores, FL",
 };
 
@@ -31,7 +31,7 @@ export default function ComingSoonPage() {
 
             <HeroReveal delay={0.3}>
               <div className="flex flex-col gap-1 font-sans text-xs tracking-widest uppercase font-medium text-ink">
-                <p className="tracking-[0.3em]">Opening Summer 2026</p>
+                <p className="tracking-[0.3em]">Opening Winter 2026</p>
                 <p className="tracking-[0.3em]">Miami Shores, FL</p>
               </div>
             </HeroReveal>
